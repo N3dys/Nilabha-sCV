@@ -3,8 +3,8 @@
 _Student, always have been_ <br>
 
 [Email](mailto:muntu0908@gmail.com) / [Website](this) / [LinkedIn](www.linkedin.com/in/nilabhadas314) / [GitHub](https://github.com/N3dys/) 
-<br>
-##**Current Responsibilities**
+<br><br>
+**Current Responsibilities**
 
 **WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Dec 2020 - Present)_ <br>
 **WCM** at [The Literary, Debate and Quizzing Club, Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
