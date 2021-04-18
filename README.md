@@ -1,9 +1,8 @@
-# Carolyn Stransky
+# Nilabha Das
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Student, always have been_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
-
+[Email](mailto:muntu0908@gmail.com) / [Website](this) / [LinkedIn](www.linkedin.com/in/nilabhadas314) / [GitHub](https://github.com/N3dys/) 
 ## 👩🏼‍💻 Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
@@ -140,15 +139,17 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**B.Tech** Electrical and Electronics Engineering<br>
+[Manipal Institute of Technology](https://manipal.edu/mit.html) - Karnataka, India _(2020-2024(exp))_
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**B.E** Power Engineering<br>
+[Jadavpur University](http://www.jaduniv.edu.in/) - West Bengal, India _(2019-2019)_
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**High School certificate (AISSCE)** in Pure Sciences, English and Bengali<br>
+[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2017 - 2019)_
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Secondary School certificate (AISCE)** in Pure Sciences, English and Bengali, Information Practice, Hisotry, Geography, Civics<br>
+[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2015 - 2017)_
+
+
 
