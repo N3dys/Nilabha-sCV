@@ -6,8 +6,11 @@ _Student, always have been_ <br>
 <br><br>
 **Current Responsibilities**
 
-**WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Dec 2020 - Present)_ <br>
+**WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Feb 2021 - Present)_ <br>
+**WCM** at [IEEE Student's Branch, Manipal](https://www.instagram.com/ieeesbm/?hl=en) _(Dec 2020 - Present)_ <br>
 **WCM** at [The Literary, Debate and Quizzing Club, Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
+
+
 
 <br><br>
 
@@ -118,13 +121,17 @@ Free, two-day workshops to help people build their first website.
 <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
 <br><br>
   
-## 🏆 Accomplishments
+## 🏆 Honours and Awards
 
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
+**Achiever of the Year** by [The Times of India] _(2017)_ <br>
+ <br><br>
+ **Pratibha Samman** by [Prabhat Khabar] _(2017)_ <br>
+ <br><br>
+ **Merit Certificate top 0.1%** by [Central Board of Secondary Education] _(2017)_ <br 
+ <br><br>
+  **Certificate of Excellence** by [University of New South Wales-Global] _(2017)_ <br>
+ <br><br>
+
 
 **Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
