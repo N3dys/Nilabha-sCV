@@ -141,7 +141,7 @@ Free, two-day workshops to help people build their first website.
 **Rainwater Channeling to run City Pumping Stations** _(2017)_ <br>
 **Arm-Flex** _(2016)_ <br>
 **The Hyper Solar Collector** _(2017)_ <br>
-**DroningSafely - NASA Space Apps Challenge 2016** @ [DroningSafely](https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/droningsafely) _(2016)_ <br>
+**DroningSafely - NASA Space Apps Challenge 2016** @ [DroningSafely](https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/droningsafely) _(2016)_ 
  - Created DroningSafely, a cluster of attitude control algorithms and instructions to avoid obstacles on the path of a aerial moving object.
 <br><br>
 
