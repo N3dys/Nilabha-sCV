@@ -3,13 +3,11 @@
 _Student, always have been_ <br>
 
 [Email](mailto:muntu0908@gmail.com) / [Website](this) / [LinkedIn](www.linkedin.com/in/nilabhadas314) / [GitHub](https://github.com/N3dys/) 
-## 👩🏼‍💻 Technical Experience
+##**Current Responsibilities**
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
-  - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+**WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Dec 2020 - Present)_ <br>
+**WCM** at [The Literary, Debate and Quizzing Club, Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
+
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
