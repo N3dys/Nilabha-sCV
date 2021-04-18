@@ -44,7 +44,7 @@ _Student, always have been_ <br>
 ## Experience
 
 Visiting Student - [IRPL](https://www.irpel.org/), University of Calcutta
--Learnt about solid State devices and transistor-based logic circuits at the Institute of Radio Physics and Electronics. Helped in the [IISF 2019] (https://www.indiatoday.in/education-today/news/story/kolkata-students-create-guinness-world-record-of-most-students-assembling-radio-kits-1616970-2019-11-08) where school students set a world record of the most students assembling radio kits simultaneously., where school students set a world record of the most students assembling radio kits simultaneously.
+-Learnt about solid State devices and transistor-based logic circuits at the Institute of Radio Physics and Electronics. Helped in the [IISF 2019](https://www.indiatoday.in/education-today/news/story/kolkata-students-create-guinness-world-record-of-most-students-assembling-radio-kits-1616970-2019-11-08) where school students set a world record of the most students assembling radio kits simultaneously., where school students set a world record of the most students assembling radio kits simultaneously.
 <br><br>
 Visiting Student - [BITM](https://bitm.gov.in/), National Council of Science Museums
 -Worked in the science instrumentation laboratory with a 10 member team, fabricating educational toys and science demonstration kits.
