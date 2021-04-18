@@ -123,13 +123,15 @@ Free, two-day workshops to help people build their first website.
   
 ## 🏆 Honours and Awards
 
-**Achiever of the Year** by [The Times of India] _(2017)_ <br>
+**Achiever of the Year** by The Times of India _(2017)_
  <br><br>
- **Pratibha Samman** by [Prabhat Khabar] _(2017)_ <br>
+ **Pratibha Samman** by Prabhat Khabar_(2017)_
  <br><br>
- **Merit Certificate top 0.1%** by [Central Board of Secondary Education] _(2017)_ <br 
+ **Merit Certificate top 0.1%** by Central Board of Secondary Education_(2017)_
  <br><br>
-  **Certificate of Excellence** by [University of New South Wales-Global] _(2017)_ <br>
+  **Certificate of Excellence** by University of New South Wales-Global_(2017)_ 
+ <br><br>
+  **JBNSTS Junior Scholarship** by Government of West Bengal_(2017)_ 
  <br><br>
 
 
