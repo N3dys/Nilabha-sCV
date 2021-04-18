@@ -127,16 +127,22 @@ Free, two-day workshops to help people build their first website.
  <br><br>
  **Pratibha Samman** by Prabhat Khabar_(2017)_
  <br><br>
- **Merit Certificate top 0.1%** by Central Board of Secondary Education_(2017)_
+ **Merit Certificate top 0.1%** by Central Board of Secondary Education _(2017)_
  <br><br>
-  **Certificate of Excellence** by University of New South Wales-Global_(2017)_ 
+  **Certificate of Excellence** by University of New South Wales-Global _(2017)_ 
  <br><br>
-  **JBNSTS Junior Scholarship** by Government of West Bengal_(2017)_ 
+  **JBNSTS Junior Scholarship** by Government of West Bengal _(2017)_ 
  <br><br>
 
+## Projects
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+**Compo-Plaster** _(2017)_
+**The Hyper Solar Collector** _(2017)_
+**Rainwater Channeling to run City Pumping Stations** _(2017)_
+**Arm-Flex** _(2016)_
+**The Hyper Solar Collector** _(2017)_
+**DroningSafely - NASA Space Apps Challenge 2016** @ [NASA](https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/droningsafely) _(2016)_<br>
+ - Created DroningSafely, a cluster of attitude control algorithms and instructions to avoid obstacles on the path of a aerial moving object.
 <br><br>
 
 ## 💬 Languages
