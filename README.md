@@ -72,7 +72,7 @@ Co-founder - **ALLO**
 **High School certificate (AISSCE)** in Pure Sciences, English and Bengali<br>
 [Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2017 - 2019)_
 
-**Secondary School certificate (AISCE)** in Pure Sciences, English and Bengali, Information Practice, Hisotry, Geography, Civics<br>
+**Secondary School certificate (AISCE)** in Pure Sciences, English and Bengali, Information Practice, History, Geography, Civics<br>
 [Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2015 - 2017)_
 
 
