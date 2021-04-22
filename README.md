@@ -64,16 +64,13 @@ Co-founder - **ALLO**
 ## 👩🏼‍🎓 Education
 
 **B.Tech** Electrical and Electronics Engineering<br>
-[Manipal Institute of Technology](https://manipal.edu/mit.html) - Karnataka, India _(2020-2024(exp))_
+[Manipal Institute of Technology](https://manipal.edu/mit.html) - Karnataka, India 
 
-**B.E** Power Engineering<br>
-[Jadavpur University](http://www.jaduniv.edu.in/) - West Bengal, India _(2019-2019)_
 
 **High School certificate (AISSCE)** in Pure Sciences, English and Bengali<br>
-[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2017 - 2019)_
+[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India 
 
 **Secondary School certificate (AISCE)** in Pure Sciences, English and Bengali, Information Practice, History, Geography, Civics<br>
-[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India _(2015 - 2017)_
-
+[Hariyana Vidya Mandir](https://www.hariyanavidyamandir.org/) - Kolkata, West Bengal, India 
 
 
