@@ -9,7 +9,7 @@ _Student_ <br>
 
 **WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Feb 2021 - Present)_ <br>
 **WCM** at [IEEE Student's Branch, Manipal](https://www.instagram.com/ieeesbm/?hl=en) _(Dec 2020 - Present)_ <br>
-**WCM** at [The Literary, Debate and Quizzing Club, Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
+**WCM** at [The Literary, Debate and Quiz Club, MIT Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
 
 
 
