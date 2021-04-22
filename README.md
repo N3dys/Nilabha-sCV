@@ -2,7 +2,7 @@
 
 _Student_ <br>
 
-[Email](mailto:muntu0908@gmail.com) / [Social](https://www.instagram.com/nilabha_das/) / [LinkedIn](www.linkedin.com/in/nilabhadas314)  
+[Email](mailto:muntu0908@gmail.com) / [Social](https://www.instagram.com/nilabha_das/) / [LinkedIn](https://www.linkedin.com/in/nilabhadas314/)  
 <br><br>
 
 **Current Responsibilities**
