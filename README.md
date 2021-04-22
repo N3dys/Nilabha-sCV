@@ -1,11 +1,11 @@
-# I'm Nilabha
+# I'm Nilabha 😀
 
 _Student_ <br>
 
 [Email](mailto:muntu0908@gmail.com) / [Social](https://www.instagram.com/nilabha_das/) / [LinkedIn](https://www.linkedin.com/in/nilabhadas314/)  
 <br><br>
 
-**Current Responsibilities**
+** 👔 Current Responsibilities**
 
 **WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Feb 2021 - Present)_ <br>
 **WCM** at [IEEE Student's Branch, Manipal](https://www.instagram.com/ieeesbm/?hl=en) _(Dec 2020 - Present)_ <br>
@@ -31,7 +31,7 @@ _Student_ <br>
   **JBNSTS Junior Scholarship** by The Government of West Bengal _(2017)_ 
  <br><br>
 
-## Projects
+## ⚙️ Projects
 
 **Compo-Plaster** _(2017)_ <br>
 **The Hyper Solar Collector** _(2017)_ <br>
@@ -41,7 +41,7 @@ _Student_ <br>
  - Created DroningSafely, a cluster of attitude control algorithms and instructions to avoid obstacles on the path of a aerial moving object.
 <br><br>
 
-## Experience
+## 💼 Experience
 
 Visiting Student - [IRPL](https://www.irpel.org/), University of Calcutta
 -Learnt about solid State devices and transistor-based logic circuits at the Institute of Radio Physics and Electronics. Helped in the [IISF 2019](https://www.indiatoday.in/education-today/news/story/kolkata-students-create-guinness-world-record-of-most-students-assembling-radio-kits-1616970-2019-11-08) where school students set a world record of the most students assembling radio kits simultaneously.
