@@ -23,7 +23,7 @@ _Student_ <br>
 <br><br>
 **Achiever of the Year** by The Times of India 
  <br><br>
- **Pratibha Samman** by Prabhat Khabar _(2017)_
+ **Pratibha Samman** by Prabhat Khabar 
  <br><br>
  **Merit Certificate top 0.1%** by Central Board of Secondary Education
  <br><br>
@@ -59,6 +59,8 @@ Co-founder - **ALLO**
 **English**: Full Professional Proficiency <br>
 **Bengali**: Native Proficiency <br>
 **Hindi**: Professional Proficiency
+
+<br><br>
 
 <br><br>
 
