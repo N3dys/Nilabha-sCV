@@ -1,6 +1,6 @@
 # I'm Nilabha😀
 
-_and I like everything electromechanical_ <br>
+_-and I like everything electromechanical._ <br>
 
 [Email](mailto:muntu0908@gmail.com) / [Social](https://www.instagram.com/nilabha_das/) / [LinkedIn](https://www.linkedin.com/in/nilabhadas314/)  
 <br><br>
