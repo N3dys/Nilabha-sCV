@@ -7,9 +7,10 @@ _Student_ <br>
 
 ## 👔 Current Responsibilities
 
+**SnA Division Member** at [Project MANAS](https://projectmanas.in/) _(April 2021 - Present)_ <br>
 **WCM** at [The Think Tank, Manipal](https://www.instagram.com/thethinktankmanipal/) _(Feb 2021 - Present)_ <br>
 **WCM** at [IEEE Student's Branch, Manipal](https://www.instagram.com/ieeesbm/?hl=en) _(Dec 2020 - Present)_ <br>
-**WCM** at [The Literary, Debate and Quiz Club, MIT Manipal](https://www.instagram.com/ldq_manipal/) _(Sep 2020 - Present)_ <br>
+
 
 
 
@@ -18,17 +19,17 @@ _Student_ <br>
 
 ## 🏆 Honours and Awards
 
-**Best All Rounder** by Hariyana Vidya Mandir _(2019)_
+**Achievers 2019** by The Telegraph
 <br><br>
-**Achiever of the Year** by The Times of India _(2017)_
+**Achiever of the Year** by The Times of India 
  <br><br>
  **Pratibha Samman** by Prabhat Khabar _(2017)_
  <br><br>
- **Merit Certificate top 0.1%** by Central Board of Secondary Education _(2017)_
+ **Merit Certificate top 0.1%** by Central Board of Secondary Education
  <br><br>
-  **Certificate of Excellence** by University of New South Wales-Global ICT _(2017)_ 
+  **Certificate of Excellence** by University of New South Wales-Global ICT 
  <br><br>
-  **JBNSTS Junior Scholarship** by The Government of West Bengal _(2017)_ 
+  **JBNSTS Junior Scholarship** by The Government of West Bengal
  <br><br>
 
 ## ⚙️ Projects
